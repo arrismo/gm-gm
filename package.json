@@ -1,0 +1,24 @@
+{
+  "name": "dominican-pizza-game",
+  "version": "1.0.0",
+  "description": "A Dominican-themed pizza game inspired by Good Pizza, Great Pizza using Three.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "game",
+    "threejs",
+    "pizza",
+    "dominican"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.150.0",
+    "gsap": "^3.11.4"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  }
+}
