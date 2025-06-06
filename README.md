@@ -3,7 +3,7 @@
 
 # Pizza Master
 
-A mobile-friendly  pizza game inspired by "Good Pizza, Great Pizza" but with a Dominican twist, built using Three.js.
+A mobile-friendly  pizza game inspired by "Good Pizza, Great Pizza" but with a Hispanic twist, built using Three.js.
 
 
 
